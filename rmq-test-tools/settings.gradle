@@ -1,0 +1,6 @@
+rootProject.name = 'rmq-test-tools'
+
+include 'rmq-test-consumer'
+
+include 'rmq-test-producer'
+
